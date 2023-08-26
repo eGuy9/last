@@ -9,7 +9,7 @@ import java.util.*;
 class LastApplicationTests {
 
     @Test
-    void contextLoads() {
+    void test() {
         Scanner in = new Scanner(System.in);
         // 注意 hasNext 和 hasNextLine 的区别
         String str = in.nextLine();
