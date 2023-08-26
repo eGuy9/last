@@ -113,6 +113,7 @@ class LastApplicationTests {
         System.out.println("hello hot-fix");
         System.out.println("push test");
         System.out.println("push test2");
+        System.out.println("pull test");
 
     }
 
